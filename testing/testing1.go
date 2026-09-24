@@ -19,9 +19,9 @@ func division(top int, bottom int) (int, int) {
 }
 
 func main() {
-	var top int = 15
+	var top int = 10
 	var bottom int = 2
 	var result, remainder int = division(top, bottom)
 
-	fmt.Printf("The result of the division is %v remainder %v", result, remainder)
+	fmt.Printf("The result of the division is %v remainder %v\n", result, remainder)
 }
