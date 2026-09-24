@@ -2,15 +2,10 @@ package main
 
 import "fmt"
 
-func hello() {
-	fmt.Println("Hello")
-}
-
-func world() {
-	fmt.Println(", world!")
-}
-
 func main() {
-	hello()
-	world()
+	const myName string = "victor"
+	fmt.Println("my name is " + myName)
+
+	var myAge int16 = 23
+	fmt.Println(myAge)
 }
