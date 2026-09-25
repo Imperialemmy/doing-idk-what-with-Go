@@ -49,3 +49,5 @@ func main() {
 	fmt.Printf("the result of the multiplication is %v\n", result)
 
 }
+
+// switches cases automatically apply breaks
