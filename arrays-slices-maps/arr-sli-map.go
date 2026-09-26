@@ -29,6 +29,6 @@ func main() {
 	// displayages("mummy", 57)
 	// displayages("ay", 26)
 	displayages("johnny", 23)
-	displayages("kiing", 25)
+	displayages("kiing", 24)
 	fmt.Println("omo una don old o")
 }
